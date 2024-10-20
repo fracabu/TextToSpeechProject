@@ -1,7 +1,3 @@
-Certo! Ecco un **README** dettagliato e "figo" per il tuo progetto di **Text-to-Speech** con supporto per vari formati di file:
-
----
-
 # 🎙️ Text-to-Speech Multi-Format Converter
 
 Converti facilmente file **TXT**, **DOC**, **DOCX**, **PDF** in audio **MP3** utilizzando **Google Text-to-Speech (gTTS)**. Questo script Python ti permette di estrarre testo da file di diversi formati, di formattarlo automaticamente per una lettura più naturale, e di salvare l'output come audio in formato **MP3**. Ideale per chi vuole convertire documenti in audio!
